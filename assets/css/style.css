@@ -1,0 +1,78 @@
+.container {
+    border: 3px solid black;
+    font-size: 20px;
+    text-align: center;
+    color: beige;
+    margin: 30px auto;
+    height: 150px;
+    width: 80%;
+}
+
+.guess {
+    border: 3px solid black;
+    font-size: 30px;
+    text-align: center;
+    color: beige;
+    margin: 30px auto;
+    height: 75px;
+    width: 80%;
+}
+
+.wrong {
+    border: 3px solid black;
+    font-size: 20px;
+    text-align: left;
+    color: red;
+    margin: 30px auto;
+    height: 30px;
+    width: 80%;
+}
+
+.left {
+    border: 3px solid black;
+    font-size: 20px;
+    text-align: left;
+    color: red;
+    margin: 30px auto;
+    height: 30px;
+    width: 80%;
+}
+
+.wins {
+    border: 3px solid black;
+    font-size: 20px;
+    text-align: left;
+    color: red;
+    margin: 30px auto;
+    height: 30px;
+    width: 80%;
+}
+
+.losses {
+    border: 3px solid black;
+    font-size: 20px;
+    text-align: left;
+    color: red;
+    margin: 30px auto;
+    height: 30px;
+    width: 80%;
+}
+
+body {
+    background-color: darkgrey;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 35px;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+}
+
+p {
+    color: beige;
+}
